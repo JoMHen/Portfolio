@@ -1,0 +1,68 @@
+﻿  Source.cpp
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(112): note: see reference to function template instantiation 'void encode<int,30>(Stack<int,30> &,Queue<int,30> &,::size_t)' being compiled
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(113): note: see reference to function template instantiation 'void decode<int,30>(Stack<int,30> &,Queue<int,30> &,::size_t)' being compiled
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(101): warning C4018: '<': signed/unsigned mismatch
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(97): note: while compiling class template member function 'void List<V_T,30>::erase(void)'
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\queue.h(28): note: see reference to function template instantiation 'void List<V_T,30>::erase(void)' being compiled
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\queue.h(19): note: while compiling class template member function 'void Queue<int,30>::inQueue(V_T)'
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(110): note: see reference to function template instantiation 'void Queue<int,30>::inQueue(V_T)' being compiled
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\source.cpp(104): note: see reference to class template instantiation 'Queue<int,30>' being compiled
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(119): warning C4018: '>': signed/unsigned mismatch
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(114): note: while compiling class template member function 'void List<V_T,30>::insertBefore(V_T)'
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\queue.h(21): note: see reference to function template instantiation 'void List<V_T,30>::insertBefore(V_T)' being compiled
+          with
+          [
+              V_T=int
+          ]
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(115): warning C4101: 't': unreferenced local variable
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(134): warning C4018: '>': signed/unsigned mismatch
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(126): note: while compiling class template member function 'void List<V_T,30>::insertAfter(V_T)'
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\stack.h(21): note: see reference to function template instantiation 'void List<V_T,30>::insertAfter(V_T)' being compiled
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(52): note: while compiling class template member function 'void List<V_T,30>::first(void)'
+          with
+          [
+              V_T=int
+          ]
+  c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\queue.h(20): note: see reference to function template instantiation 'void List<V_T,30>::first(void)' being compiled
+          with
+          [
+              V_T=int
+          ]
+c:\users\johen\documents\visual studio 2017\projects\queue and stack program\queue and stack program\list.h(127): warning C4101: 't': unreferenced local variable
+  Queue and Stack Program.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Queue and Stack Program\Debug\Queue and Stack Program.exe
+  Queue and Stack Program.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Queue and Stack Program\Debug\Queue and Stack Program.pdb (Partial PDB)

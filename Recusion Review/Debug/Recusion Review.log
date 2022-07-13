@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\johen\documents\visual studio 2017\projects\recusion review\recusion review\source.cpp(47): warning C4715: 'locate': not all control paths return a value
+c:\users\johen\documents\visual studio 2017\projects\recusion review\recusion review\source.cpp(82): warning C4715: 'hailstones': not all control paths return a value
+  Recusion Review.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Recusion Review\Debug\Recusion Review.exe
+  Recusion Review.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Recusion Review\Debug\Recusion Review.pdb (Partial PDB)

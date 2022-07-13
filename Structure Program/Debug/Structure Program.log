@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johen\documents\visual studio 2017\projects\structure program\structure program\source.cpp(52): warning C4101: 'pre': unreferenced local variable
+c:\users\johen\documents\visual studio 2017\projects\structure program\structure program\source.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johen\documents\visual studio 2017\projects\structure program\structure program\source.cpp(106): warning C4101: 'calc': unreferenced local variable
+  Structure Program.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Structure Program\Debug\Structure Program.exe
+  Structure Program.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Structure Program\Debug\Structure Program.pdb (Partial PDB)
