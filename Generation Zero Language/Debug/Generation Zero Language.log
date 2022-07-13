@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johen\documents\visual studio 2017\projects\generation zero language\generation zero language\source.cpp(51): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\johen\documents\visual studio 2017\projects\generation zero language\generation zero language\source.cpp(88): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\johen\documents\visual studio 2017\projects\generation zero language\generation zero language\source.cpp(95): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generation Zero Language.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Generation Zero Language\Debug\Generation Zero Language.exe
+  Generation Zero Language.vcxproj -> C:\Users\johen\Documents\Visual Studio 2017\Projects\Generation Zero Language\Debug\Generation Zero Language.pdb (Partial PDB)
